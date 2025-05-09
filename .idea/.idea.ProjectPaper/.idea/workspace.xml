@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd6867d9-adcb-43e1-b06f-ba8fbb822523" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Gemserk.Favorites.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gemserk.Favorites.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/FeelBarbarians.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/FeelBarbarians.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianAttack2ParticleMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianAttack2ParticleMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianAttackParticleMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianAttackParticleMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundGrass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundGrass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundGroundRocks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundGroundRocks.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundMountains.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundMountains.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundRock.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundRock.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundTreeLeaves.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundTreeLeaves.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundTreeWood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBackgroundTreeWood.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBodyGreenMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBodyGreenMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBodyMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianBodyMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianDustMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianDustMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianEnemyHelmetMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianEnemyHelmetMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianEnemyHelmetRimMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianEnemyHelmetRimMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownGrass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownGrass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownGroundRocks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownGroundRocks.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownLeaves.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownLeaves.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownMountains.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownMountains.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownRock.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTopDownRock.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTrail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Materials/FeelBarbarianTrail.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Prefabs/FeelBarbarianFloatingText.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Barbarians/Prefabs/FeelBarbarianFloatingText.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/FeelBlob.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/FeelBlob.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/Materials/FeelBlobEyes.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/Materials/FeelBlobEyes.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/Materials/FeelBlobPlastic.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/Materials/FeelBlobPlastic.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/Materials/FeelBlobWhiteClouds.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Blob/Materials/FeelBlobWhiteClouds.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/FeelBounce.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/FeelBounce.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceAxe.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceAxe.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceBody.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceBody.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceDust.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceDust.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceGrass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceGrass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceHelmetBaseMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceHelmetBaseMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceHelmetHornsMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceHelmetHornsMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceHelmetRimMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceHelmetRimMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceLight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceLight.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceRocks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceRocks.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceTrees1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceTrees1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceTrees2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Bounce/Materials/FeelBounceTrees2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/FeelBrass.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/FeelBrass.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassBody.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassBody.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassClothes 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassClothes 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassClothes.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassClothes.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassEqualizerBlock.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassEqualizerBlock.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassEqualizerBlockRight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassEqualizerBlockRight.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassGround1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassGround1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassGround2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassGround2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassGround3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Brass/Materials/FeelBrassGround3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/CardsUI/FeelCardsUI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/CardsUI/FeelCardsUI.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Duck/FeelDuck.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Duck/FeelDuck.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/GettingStartedTutorial/FeelGettingStartedTutorial.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/GettingStartedTutorial/FeelGettingStartedTutorial.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Letters/Materials/FeelLettersDemoMM2DReflection.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Letters/Materials/FeelLettersDemoMM2DReflection.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMProgressBar/FeelMMProgressBar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMProgressBar/FeelMMProgressBar.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMSequencer/FeelMMSequencer.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMSequencer/FeelMMSequencer.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMSoundManager/FeelMMSoundManagerPlaylistManager.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMSoundManager/FeelMMSoundManagerPlaylistManager.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMSoundManager/FeelMMSoundManagerTrackControl.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/MMSoundManager/FeelMMSoundManagerTrackControl.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Snake/FeelSnake.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Snake/FeelSnake.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Snake/Materials/FeelSnakeEatParticlesDistortionMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Snake/Materials/FeelSnakeEatParticlesDistortionMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/FeelSprings.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/FeelSprings.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansGround.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansGround.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmet1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmet1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmet2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmet2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmetHorns.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmetHorns.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmetRim.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsBarbariansHelmetRim.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesEyeBlack.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesEyeBlack.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesEyeWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesEyeWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesGround.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesGround.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesLeavesDarker.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesLeavesDarker.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesPineLeaves.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesPineLeaves.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesRocks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesRocks.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesRoundLeaves.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesRoundLeaves.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesSky.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/Materials/FeelSpringsTalkingTreesSky.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/PostProcessing/FeelSpringsPostProcessingVolume.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Springs/PostProcessing/FeelSpringsPostProcessingVolume.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/FeelSquashAndStretch.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/FeelSquashAndStretch.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarBodyBlue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarBodyBlue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarBodyRed.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarBodyRed.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarBodyYellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarBodyYellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarHeadlights.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarHeadlights.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarWheels.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarWheels.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarWheelsInside.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarWheelsInside.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarWindows.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchCarWindows.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchChalet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchChalet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchGround.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchGround.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchRoad.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchRoad.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchSmoke.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchSmoke.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchTires.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchTires.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchTrees.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/SquashAndStretch/Materials/FeelSquashAndStretchTrees.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/FeelTactical.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/FeelTactical.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalBulletImpactParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalBulletImpactParticle.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalGunMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalGunMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalMuzzleflashMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalMuzzleflashMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalShirtMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Tactical/Materials/FeelTacticalShirtMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/FeelToaster.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/FeelToaster.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterBodyAltMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterBodyAltMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterBodyMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterBodyMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterMugContents.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterMugContents.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterMugMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterMugMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterSmokeMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterSmokeMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterTableclothMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterTableclothMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterToasterMetalMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Toaster/Materials/FeelToasterToasterMetalMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/FeelWheel.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/FeelWheel.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelDustMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelDustMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelDustMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelDustMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelGround.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelGround.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelInside.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelInside.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelRim.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelRim.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelRubber.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelRubber.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelSmokeMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelSmokeMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelSparksMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelSparksMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelSparksMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemos/Wheel/Materials/FeelWheelSparksMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/FalconHDRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/FalconHDRP.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/FalconHDRP.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/FalconHDRP/FeelFalconLightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/FalconHDRP/FeelFalconLightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/HDRPSettings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/HDRPSettings/FeelFalconHDRPDemoPostProcessingSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/HDRPSettings/FeelFalconHDRPDemoPostProcessingSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/HDRPSettings/FeelFalconHDRPDemoSkyandFogSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/HDRPSettings/FeelFalconHDRPDemoSkyandFogSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/HDRPSettings/FeelFalconHDRenderPipelineAsset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/HDRPSettings/FeelFalconHDRenderPipelineAsset.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Lighting/FeelFalconReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Lighting/FeelFalconReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Lighting/FeelFalconReflectionProbe-1.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Lighting/FeelFalconReflectionProbe-1.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Lighting/FeelFalconReflectionProbe-2.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Lighting/FeelFalconReflectionProbe-2.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconHDRPSkybox.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconHDRPSkybox.hdr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconLights.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconLights.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconLightsRed.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconLightsRed.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconMMLogo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconMMLogo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconMetal.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconMetal.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconPaint.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconPaint.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconRockParticles.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconRockParticles.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconRockPlane.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconRockPlane.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconRockRoad.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconRockRoad.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconSmoke1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconSmoke1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconSmoke2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconSmoke2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconSmoke3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconSmoke3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconTires.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconTires.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconWind1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconWind1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconWind2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconWind2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconWindows.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Materials/FeelFalconWindows.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Models/FeelFalcon.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Models/FeelFalcon.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Models/FeelRock.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Models/FeelRock.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Scripts/Falcon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Scripts/Falcon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Sounds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Sounds/FeelFalconEngineSound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Sounds/FeelFalconEngineSound.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Sounds/FeelFalconEngineStartSound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Sounds/FeelFalconEngineStartSound.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Sounds/FeelFalconEngineStopSound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Sounds/FeelFalconEngineStopSound.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconRockAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconRockAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconRockDisplace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconRockDisplace.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconRockNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconRockNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconSmoke.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/Falcon/Textures/FeelFalconSmoke.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/MoreMountains.Feel.Demos.HDRP.asmref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/FeelDemosHDRP/MoreMountains.Feel.Demos.HDRP.asmref.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Camera/MMFeedbacksDemo Main Camera Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Camera/MMFeedbacksDemo Main Camera Profile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/MMF_PlayerDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/MMF_PlayerDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoBackgroundCube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoBackgroundCube.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoBurger.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoBurger.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoCheese.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoCheese.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoCupcakeMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoCupcakeMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoDudeBody.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoDudeBody.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoEyes.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoEyes.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGreen.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGreen.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGround.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGround.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGround.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGround.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGroundDust.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGroundDust.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGroundRocks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGroundRocks.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGroundRocks.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoGroundRocks.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoRed.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoRed.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoSteak.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/Materials/FeedbacksDemoSteak.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/CubeMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/CubeMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerCarpet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerCarpet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerCarpet05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerCarpet05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerCarpet06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerCarpet06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerChip.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerChip.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerChristmasTree.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerChristmasTree.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerFabric06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerFabric06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerFabric09.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerFabric09.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerFacade.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerFacade.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerMetal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerMetal.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerPaintedMetal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerPaintedMetal.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles12.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles12.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles31.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles31.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles33.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles33.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles44.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles44.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles60.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles60.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles65.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles65.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles67.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles67.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles69.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerTiles69.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerWood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/Materials/SequencerWood.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/SequencerDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMFeedbacks/Demos/SequencingDemo/SequencerDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueCrosses.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueCrosses.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueDots.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueDots.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueFrame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueFrame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueSquares.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_BlueSquares.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreyCrosses.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreyCrosses.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreyDots.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreyDots.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreyFrame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreyFrame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreySquares.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_DarkGreySquares.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenCrosses.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenCrosses.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenDots.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenDots.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenFrame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenFrame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenSquares.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_GreenSquares.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreyCrosses.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreyCrosses.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreyDots.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreyDots.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreyFrame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreyFrame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreySquares.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_LightGreySquares.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedCrosses.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedCrosses.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedDots.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedDots.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedFrame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedFrame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedSquares.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_RedSquares.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowCrosses.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowCrosses.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowDots.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowDots.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowFrame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowFrame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowSquares.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/MMBPR_YellowSquares.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/Neutral/MMBRP_NeutralBlack.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/Neutral/MMBRP_NeutralBlack.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/Neutral/MMBRP_NeutralCheckers.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMPrototypeTextures/MMBRP_Materials/Neutral/MMBRP_NeutralCheckers.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMShaders/MMRipple.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMShaders/MMRipple.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMShaders/MMRipple.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Accessories/MMShaders/MMRipple.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMControls/MMControlsDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMControls/MMControlsDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMControls/MMControlsDemo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMControls/MMControlsDemo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMDebugMenu/MMDebugMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMDebugMenu/MMDebugMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMDebugMenu/MMDebugMenuDemoData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMDebugMenu/MMDebugMenuDemoData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMFollowTarget/MMFollowTargetDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMFollowTarget/MMFollowTargetDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMFollowTarget/MMFollowTargetDemoGroundMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMFollowTarget/MMFollowTargetDemoGroundMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/MMGhostCameraDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/MMGhostCameraDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraBuildings.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraBuildings.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraDark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraDark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraGround.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraGround.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraSpheres.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGhostCamera/Materials/MMGhostCameraSpheres.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGizmos/MMGizmoDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMGizmos/MMGizmoDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMPrototypeTextures/MMPrototypeTexturesDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMPrototypeTextures/MMPrototypeTexturesDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMRadio/MMRadioDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Feel/MMTools/Demos/MMRadio/MMRadioDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples/SampleScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples/SampleScene/PlayerPrefsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples/SampleScene/PlayerPrefsController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples/SampleScene/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples/SampleScene/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples/SampleScene/Unity.PlayerPrefsEditor.Samples.SampleScene.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PlayerPrefsEditor/Samples/SampleScene/Unity.PlayerPrefsEditor.Samples.SampleScene.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Demo_URP.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Demo_URP.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Animatable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Animatable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Baggage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Baggage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/CameraProjectionMatrixAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/CameraProjectionMatrixAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Demo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Demo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/DirectionalLightController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/DirectionalLightController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Door.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Door.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Headlights.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Headlights.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/HighlightableElement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/HighlightableElement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/HighlightedElementController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/HighlightedElementController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/InputController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/InputController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/JumpAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/JumpAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/MeasureAllocations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/MeasureAllocations/DebugInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/MeasureAllocations/DebugInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/MeasureAllocations/MeasureMemoryAllocations.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/MeasureAllocations/MeasureMemoryAllocations.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/MeasureAllocations/PrimeTween.Debug.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/MeasureAllocations/PrimeTween.Debug.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/PrimeTween.Demo.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/PrimeTween.Demo.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Road.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Road.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/SlidingDoor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/SlidingDoor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/SqueezeAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/SqueezeAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/SwipeTutorial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/SwipeTutorial.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/TypewriterAnimatorExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/TypewriterAnimatorExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Wheels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Scripts/Wheels.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/CREDITS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/CREDITS.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Exterior.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Exterior.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Interior.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Interior.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/Exterior.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/Exterior.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/Wheel.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/Wheel.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/Window.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/Window.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/interior.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials/interior.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/Exterior.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/Exterior.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/Wheel.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/Wheel.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/Window.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/Window.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/interior.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Materials_URP/interior.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Van.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Van.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Wheel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Wheel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Window.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Cartoon Van by Fero Andezo/Window.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/CREDITS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/CREDITS.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_ambientOcclusion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_ambientOcclusion.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_basecolor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_basecolor.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_basecolor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_basecolor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_basecolor_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_basecolor_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_height.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_normal.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_roughness.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/Demo/Stylized Sand by Joao Paulo/Stylized_Sand_001_roughness.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2wrrdshuCqfmnzNdiLjUNKgZmOP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.1.1f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\GameDev\Unity\Projects\ProjectPaper -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\GameDev\Unity\Projects\ProjectPaper" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.1.1f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\GameDev\Unity\Projects\ProjectPaper -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\GameDev\Unity\Projects\ProjectPaper" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6867d9-adcb-43e1-b06f-ba8fbb822523" name="Changes" comment="" />
+      <created>1746810626615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746810626615</updated>
+      <workItem from="1746810628906" duration="937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
