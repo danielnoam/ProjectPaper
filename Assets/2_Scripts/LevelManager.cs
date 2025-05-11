@@ -1,5 +1,8 @@
 
+using Core.Attributes;
 using UnityEngine;
+
+using VInspector;
 
 public class LevelManager : MonoBehaviour
 {
@@ -7,15 +10,22 @@ public class LevelManager : MonoBehaviour
     
     
     [Header("Game Settings")]
-    [SerializeField] private int difficulty = 1;
-    [SerializeField] private int players = 1;
     [SerializeField] private Vector2 worldBoundsSize = new Vector2(10, 10);
-
-    [Header("Current Level")]
-    [SerializeField] private SOLevel level;
+    [CreateEditableAsset][SerializeField] private SOLevel defaultLevel;
     
     
-    public SOLevel Level => level;
+    [Header("Debug")]
+    [SerializeField, ReadOnly] private int difficulty = 1;
+    [SerializeField, ReadOnly] private int players = 1;
+    [SerializeField, ReadOnly] private SOLevel currentLevel;
+    [SerializeField, ReadOnly] private SOSectionVisual currentSectionVisual;
+    [SerializeField, ReadOnly] private SOSectionType currentSectionType;
+    
+    public SOLevel CurrentLevel => currentLevel;
+    public SOSectionVisual CurrentSectionVisual => currentSectionVisual;
+    public SOSectionType CurrentSectionType => currentSectionType;
+    public int Difficulty => difficulty;
+    public int Players => players;
 
 
     private void Awake()
@@ -28,6 +38,9 @@ public class LevelManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        
+        // Set the default level
+        if (!currentLevel && defaultLevel) currentLevel = defaultLevel;
     }
 
 
@@ -76,9 +89,9 @@ public class LevelManager : MonoBehaviour
         
             float minDist = Mathf.Min(distToLeft, distToRight, distToBottom, distToTop);
         
-            if (minDist == distToLeft) return new Vector2(bounds.xMin, position.y);
-            if (minDist == distToRight) return new Vector2(bounds.xMax, position.y);
-            if (minDist == distToBottom) return new Vector2(position.x, bounds.yMin);
+            if (Mathf.Approximately(minDist, distToLeft)) return new Vector2(bounds.xMin, position.y);
+            if (Mathf.Approximately(minDist, distToRight)) return new Vector2(bounds.xMax, position.y);
+            if (Mathf.Approximately(minDist, distToBottom)) return new Vector2(position.x, bounds.yMin);
             return new Vector2(position.x, bounds.yMax);
         }
     

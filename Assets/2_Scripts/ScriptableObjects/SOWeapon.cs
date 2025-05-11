@@ -39,7 +39,7 @@ public class SOWeapon : ScriptableObject
     private void SpawnProjectile(IAttacker user)
     {
         if (!projectile) return;
-        var projectileInstance = Instantiate(projectile, user.WeaponPosition, Quaternion.identity);
+        var projectileInstance = Instantiate(projectile, user.ProjectileSpawnPositon.position, Quaternion.identity);
         projectileInstance.Initialize(user, weaponDamage, projectileSpeed, projectileForce, projectileGravity);
     }
     

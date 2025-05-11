@@ -1,4 +1,5 @@
 using System;
+using Core.Attributes;
 using KBCore.Refs;
 using UnityEngine;
 using UnityEngine.Serialization;
@@ -22,11 +23,11 @@ public class PlayerController : MonoBehaviour, IDamageable, IAttacker
     [SerializeField] private Transform gfx;
     [SerializeField] private Transform weaponPosition;
     [SerializeField, Self(Flag.Editable)] private Rigidbody2D rigidBody2D;
-    [SerializeField] private SOWeapon defaultWeapon;
-    [SerializeField] private SOWeapon eraserWeapon;
-    [SerializeField] private SOWeapon tippexWeapon;
-    [SerializeField] private SOWeapon waterSprayWeapon;
-    [SerializeField] private SOWeapon scissorsWeapon;
+    [SerializeField, CreateEditableAsset] private SOWeapon defaultWeapon;
+    [SerializeField, CreateEditableAsset] private SOWeapon eraserWeapon;
+    [SerializeField, CreateEditableAsset] private SOWeapon tippexWeapon;
+    [SerializeField, CreateEditableAsset] private SOWeapon waterSprayWeapon;
+    [SerializeField, CreateEditableAsset] private SOWeapon scissorsWeapon;
     
 
     [Header("Debug")]
@@ -50,7 +51,7 @@ public class PlayerController : MonoBehaviour, IDamageable, IAttacker
     public float BaseHealth { get; set; } = 100f;
     public float BaseDamage { get; set; } = 0;
     public SOWeapon CurrentWeapon { get; set; }
-    public Vector2 WeaponPosition { get; set; }
+    public Transform ProjectileSpawnPositon { get; set; }
     public Vector2 AttackDirection { get; set; }
     
 
@@ -108,8 +109,8 @@ public class PlayerController : MonoBehaviour, IDamageable, IAttacker
     {
         // Calculate the desired velocity based on input and acceleration
         Vector2 targetVelocity = _moveDirection * moveSpeed;
-        float targetXRotation = _moveDirection.x * maxXRotationAngle;
-        float targetZRotation = _moveDirection.y * maxZRotationAngle;
+        float targetXRotation = _moveDirection.y * maxXRotationAngle;
+        float targetZRotation = -_moveDirection.x * maxZRotationAngle;
     
         // Apply acceleration or deceleration based on input
         if (_moveInput != Vector2.zero)
@@ -142,6 +143,7 @@ public class PlayerController : MonoBehaviour, IDamageable, IAttacker
 
     #endregion Movement --------------------------------------------------------------------------------
 
+    
 
     #region Input ---------------------------------------------------------------------------------
 
@@ -217,16 +219,8 @@ public class PlayerController : MonoBehaviour, IDamageable, IAttacker
         if (!CurrentWeapon) return;
     
         // Set attack direction
-        if (_moveDirection == Vector2.zero)
-        {
-            AttackDirection = new Vector2(1, 0);
-        }
-        else
-        {
-            AttackDirection = new Vector2(1, _moveDirection.y);
-        }
-
-        if (weaponPosition) WeaponPosition = weaponPosition.position;
+        AttackDirection = weaponPosition.right;
+        ProjectileSpawnPositon = weaponPosition;
     
         // Handle different weapon limiters
         switch (CurrentWeapon.WeaponLimiter)
